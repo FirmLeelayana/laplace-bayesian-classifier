@@ -1,2 +1,2 @@
-# laplace-bayesian-classifier
+# Bayesian Classifier using Laplace Approximation
 Jupyter Notebook that focuses on a classification task, via the use of Bayesian inference as well as using the Laplace approximation for the posterior distribution. The focus of this project is to implement theoretical knowledge found in the research literature into actual usable code. The probablistic-approach to tackling machine learning problems is the empahsis of this project, as well as learning how to build a classifier from the ground up via inference methodology.
